@@ -27,7 +27,7 @@ class TaskListTab extends StatelessWidget {
           activeBackgroundDayColor: MyTheme.primaryLight,
           dotsColor: MyTheme.whiteColor,
           selectableDayPredicate: (date) => true,
-          locale: provider.appLanguage == "en" ? "en" : "ar",
+          locale: 'en_ISO',
         ),
         Expanded(
           child: ListView.builder(
