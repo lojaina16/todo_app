@@ -6,12 +6,18 @@
  "name_task" : "Enter Your Task",
  "description_task" : "Enter Task Description",
  "select_date" : "Select Date",
+ "save":"Save Changes",
+ "edit_task":"Edit Task",
  "add" : "Add",
  "delete" : "Delete",
+ "edit":"Edit",
  "language" : "Language",
  "english" : "English",
  "arabic" : "Arabic",
  "mode" : "Mode",
  "light" : "Light",
- "dark" : "Dark"
+ "dark" : "Dark",
+ "done":"Done!",
+ "title_required":"Title Is Required",
+ "description_required":"Description Is Required"
 }

@@ -7,11 +7,17 @@
  "description_task" : "ادخل وصف المهمة",
  "select_date" : "اختر التاريخ",
  "add" : "إضافة",
+ "save":"حفظ التعديلات",
+  "edit_task":"تعديل المهمة",
  "delete" : "مسح",
+  "edit":"تعديل",
  "language" : "اللغة",
  "english" : "الإنجليزية",
  "arabic" : "العربية",
  "mode" : "النمط",
  "light" : "نهاري",
- "dark":"ليلي"
+ "dark":"ليلي",
+ "done":"تم!",
+ "title_required":"ادخل الاسم",
+ "description_required":"ادخل الوصف"
 }
